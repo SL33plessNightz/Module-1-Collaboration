@@ -9,7 +9,7 @@ print(things)
 del things[2]
 print(things)
 
-#9.1 Part
+#9.1 and 9.2 Part
 def good():
     return ['Harry', 'Ron', 'Hermione']
 
